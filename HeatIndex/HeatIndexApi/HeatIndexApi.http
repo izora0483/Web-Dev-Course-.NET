@@ -1,0 +1,6 @@
+@HeatIndexApi_HostAddress = http://localhost:5182
+
+GET {{HeatIndexApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

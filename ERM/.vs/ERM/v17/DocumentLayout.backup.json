@@ -1,0 +1,388 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB98D003-40AE-4745-BC2E-05B9B261EBA3}|ERM\\ERM.csproj|\\\\elm-xa-file\\citrixfiles$\\elmhurst\\e0710483\\documents\\c#code\\c#projects\\erm\\erm\\erm\\registration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB98D003-40AE-4745-BC2E-05B9B261EBA3}|ERM\\ERM.csproj|\\\\elm-xa-file\\citrixfiles$\\elmhurst\\e0710483\\documents\\c#code\\c#projects\\erm\\erm\\erm\\registration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB98D003-40AE-4745-BC2E-05B9B261EBA3}|ERM\\ERM.csproj|\\\\elm-xa-file\\citrixfiles$\\elmhurst\\e0710483\\documents\\c#code\\c#projects\\erm\\erm\\tripledesencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB98D003-40AE-4745-BC2E-05B9B261EBA3}|ERM\\ERM.csproj|\\\\elm-xa-file\\citrixfiles$\\elmhurst\\e0710483\\documents\\c#code\\c#projects\\erm\\erm\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB98D003-40AE-4745-BC2E-05B9B261EBA3}|ERM\\ERM.csproj|\\\\elm-xa-file\\citrixfiles$\\elmhurst\\e0710483\\documents\\c#code\\c#projects\\erm\\erm\\erm\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB98D003-40AE-4745-BC2E-05B9B261EBA3}|ERM\\ERM.csproj|\\\\elm-xa-file\\citrixfiles$\\elmhurst\\e0710483\\documents\\c#code\\c#projects\\erm\\erm\\erm\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB98D003-40AE-4745-BC2E-05B9B261EBA3}|ERM\\ERM.csproj|\\\\elm-xa-file\\citrixfiles$\\elmhurst\\e0710483\\documents\\c#code\\c#projects\\erm\\erm\\erm\\error.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB98D003-40AE-4745-BC2E-05B9B261EBA3}|ERM\\ERM.csproj|\\\\elm-xa-file\\citrixfiles$\\elmhurst\\e0710483\\documents\\c#code\\c#projects\\erm\\erm\\erm\\manage\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB98D003-40AE-4745-BC2E-05B9B261EBA3}|ERM\\ERM.csproj|\\\\elm-xa-file\\citrixfiles$\\elmhurst\\e0710483\\documents\\c#code\\c#projects\\erm\\erm\\erm\\manage\\delete.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB98D003-40AE-4745-BC2E-05B9B261EBA3}|ERM\\ERM.csproj|\\\\elm-xa-file\\citrixfiles$\\elmhurst\\e0710483\\documents\\c#code\\c#projects\\erm\\erm\\erm\\manage\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB98D003-40AE-4745-BC2E-05B9B261EBA3}|ERM\\ERM.csproj|\\\\elm-xa-file\\citrixfiles$\\elmhurst\\e0710483\\documents\\c#code\\c#projects\\erm\\erm\\erm\\manage\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB98D003-40AE-4745-BC2E-05B9B261EBA3}|ERM\\ERM.csproj|\\\\elm-xa-file\\citrixfiles$\\elmhurst\\e0710483\\documents\\c#code\\c#projects\\erm\\erm\\erm\\manage\\edit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB98D003-40AE-4745-BC2E-05B9B261EBA3}|ERM\\ERM.csproj|\\\\elm-xa-file\\citrixfiles$\\elmhurst\\e0710483\\documents\\c#code\\c#projects\\erm\\erm\\erm\\manage\\view.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB98D003-40AE-4745-BC2E-05B9B261EBA3}|ERM\\ERM.csproj|\\\\elm-xa-file\\citrixfiles$\\elmhurst\\e0710483\\documents\\c#code\\c#projects\\erm\\erm\\erm\\manage\\edit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB98D003-40AE-4745-BC2E-05B9B261EBA3}|ERM\\ERM.csproj|\\\\elm-xa-file\\citrixfiles$\\elmhurst\\e0710483\\documents\\c#code\\c#projects\\erm\\erm\\erm\\manage\\view.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB98D003-40AE-4745-BC2E-05B9B261EBA3}|ERM\\ERM.csproj|\\\\elm-xa-file\\citrixfiles$\\elmhurst\\e0710483\\documents\\c#code\\c#projects\\erm\\erm\\erm\\manage\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB98D003-40AE-4745-BC2E-05B9B261EBA3}|ERM\\ERM.csproj|\\\\elm-xa-file\\citrixfiles$\\elmhurst\\e0710483\\documents\\c#code\\c#projects\\erm\\erm\\erm\\manage\\delete.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB98D003-40AE-4745-BC2E-05B9B261EBA3}|ERM\\ERM.csproj|\\\\elm-xa-file\\citrixfiles$\\elmhurst\\e0710483\\documents\\c#code\\c#projects\\erm\\erm\\erm\\registration.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB98D003-40AE-4745-BC2E-05B9B261EBA3}|ERM\\ERM.csproj|\\\\elm-xa-file\\citrixfiles$\\elmhurst\\e0710483\\documents\\c#code\\c#projects\\erm\\erm\\erm\\controls\\header.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB98D003-40AE-4745-BC2E-05B9B261EBA3}|ERM\\ERM.csproj|\\\\elm-xa-file\\citrixfiles$\\elmhurst\\e0710483\\documents\\c#code\\c#projects\\erm\\erm\\erm\\controls\\footer.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB98D003-40AE-4745-BC2E-05B9B261EBA3}|ERM\\ERM.csproj|\\\\elm-xa-file\\citrixfiles$\\elmhurst\\e0710483\\documents\\c#code\\c#projects\\erm\\erm\\erm\\scripts\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB98D003-40AE-4745-BC2E-05B9B261EBA3}|ERM\\ERM.csproj|\\\\elm-xa-file\\citrixfiles$\\elmhurst\\e0710483\\documents\\c#code\\c#projects\\erm\\erm\\erm\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB98D003-40AE-4745-BC2E-05B9B261EBA3}|ERM\\ERM.csproj|\\\\elm-xa-file\\citrixfiles$\\elmhurst\\e0710483\\documents\\c#code\\c#projects\\erm\\erm\\erm\\thankyou.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TripleDESEncryption.cs",
+              "DocumentMoniker": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\ERM\\TripleDESEncryption.cs",
+              "RelativeDocumentMoniker": "ERM\\TripleDESEncryption.cs",
+              "ToolTip": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\ERM\\TripleDESEncryption.cs",
+              "RelativeToolTip": "ERM\\TripleDESEncryption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T03:51:14.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\ERM\\ERM\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "ERM\\ERM\\Login.aspx.cs",
+              "ToolTip": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\ERM\\ERM\\Login.aspx.cs",
+              "RelativeToolTip": "ERM\\ERM\\Login.aspx.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAIASwFYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T03:38:14.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\ERM\\ERM\\Login.aspx",
+              "RelativeDocumentMoniker": "ERM\\ERM\\Login.aspx",
+              "ToolTip": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\ERM\\ERM\\Login.aspx",
+              "RelativeToolTip": "ERM\\ERM\\Login.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-17T03:36:51.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.aspx",
+              "DocumentMoniker": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\ERM\\ERM\\Error.aspx",
+              "RelativeDocumentMoniker": "ERM\\ERM\\Error.aspx",
+              "ToolTip": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\ERM\\ERM\\Error.aspx",
+              "RelativeToolTip": "ERM\\ERM\\Error.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-16T23:16:54.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\ERM\\Web.config",
+              "RelativeDocumentMoniker": "ERM\\Web.config",
+              "ToolTip": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\ERM\\Web.config",
+              "RelativeToolTip": "ERM\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-17T00:43:14.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Registration.aspx.cs",
+              "DocumentMoniker": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\ERM\\ERM\\Registration.aspx.cs",
+              "RelativeDocumentMoniker": "ERM\\ERM\\Registration.aspx.cs",
+              "ToolTip": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\ERM\\ERM\\Registration.aspx.cs",
+              "RelativeToolTip": "ERM\\ERM\\Registration.aspx.cs",
+              "ViewState": "AgIAAJ0AAABwlJmZmZkwwLEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T00:23:08.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Registration.aspx",
+              "DocumentMoniker": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\ERM\\ERM\\Registration.aspx",
+              "RelativeDocumentMoniker": "ERM\\ERM\\Registration.aspx",
+              "ToolTip": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\ERM\\ERM\\Registration.aspx",
+              "RelativeToolTip": "ERM\\ERM\\Registration.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-16T22:32:49.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\ERM\\ERM\\Manage\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "ERM\\ERM\\Manage\\Default.aspx.cs",
+              "ToolTip": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\ERM\\ERM\\Manage\\Default.aspx.cs",
+              "RelativeToolTip": "ERM\\ERM\\Manage\\Default.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T03:32:34.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\ERM\\ERM\\Manage\\Default.aspx",
+              "RelativeDocumentMoniker": "ERM\\ERM\\Manage\\Default.aspx",
+              "ToolTip": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\ERM\\ERM\\Manage\\Default.aspx",
+              "RelativeToolTip": "ERM\\ERM\\Manage\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-17T03:31:31.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.aspx.cs",
+              "DocumentMoniker": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\ERM\\ERM\\Manage\\Edit.aspx.cs",
+              "RelativeDocumentMoniker": "ERM\\ERM\\Manage\\Edit.aspx.cs",
+              "ToolTip": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\ERM\\ERM\\Manage\\Edit.aspx.cs",
+              "RelativeToolTip": "ERM\\ERM\\Manage\\Edit.aspx.cs",
+              "ViewState": "AgIAAOkAAAAAMzMzMzMPwPoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T03:08:31.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "View.aspx",
+              "DocumentMoniker": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\ERM\\ERM\\Manage\\View.aspx",
+              "RelativeDocumentMoniker": "ERM\\ERM\\Manage\\View.aspx",
+              "ToolTip": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\ERM\\ERM\\Manage\\View.aspx",
+              "RelativeToolTip": "ERM\\ERM\\Manage\\View.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-17T02:54:04.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.aspx",
+              "DocumentMoniker": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\ERM\\ERM\\Manage\\Edit.aspx",
+              "RelativeDocumentMoniker": "ERM\\ERM\\Manage\\Edit.aspx",
+              "ToolTip": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\ERM\\ERM\\Manage\\Edit.aspx",
+              "RelativeToolTip": "ERM\\ERM\\Manage\\Edit.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-17T03:01:26.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "View.aspx.cs",
+              "DocumentMoniker": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\ERM\\ERM\\Manage\\View.aspx.cs",
+              "RelativeDocumentMoniker": "ERM\\ERM\\Manage\\View.aspx.cs",
+              "ToolTip": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\ERM\\ERM\\Manage\\View.aspx.cs",
+              "RelativeToolTip": "ERM\\ERM\\Manage\\View.aspx.cs",
+              "ViewState": "AgIAADQAAAAAzMzMzMwUwFwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T02:56:48.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dashboard.aspx",
+              "DocumentMoniker": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\ERM\\ERM\\Manage\\Dashboard.aspx",
+              "RelativeDocumentMoniker": "ERM\\ERM\\Manage\\Dashboard.aspx",
+              "ToolTip": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\ERM\\ERM\\Manage\\Dashboard.aspx",
+              "RelativeToolTip": "ERM\\ERM\\Manage\\Dashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-17T02:40:38.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.aspx",
+              "DocumentMoniker": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\ERM\\ERM\\Manage\\Delete.aspx",
+              "RelativeDocumentMoniker": "ERM\\ERM\\Manage\\Delete.aspx",
+              "ToolTip": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\ERM\\ERM\\Manage\\Delete.aspx",
+              "RelativeToolTip": "ERM\\ERM\\Manage\\Delete.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-17T03:01:49.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Dashboard.aspx.cs",
+              "DocumentMoniker": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\ERM\\ERM\\Manage\\Dashboard.aspx.cs",
+              "RelativeDocumentMoniker": "ERM\\ERM\\Manage\\Dashboard.aspx.cs",
+              "ToolTip": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\ERM\\ERM\\Manage\\Dashboard.aspx.cs",
+              "RelativeToolTip": "ERM\\ERM\\Manage\\Dashboard.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAACuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T02:46:42.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.aspx.cs",
+              "DocumentMoniker": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\ERM\\ERM\\Manage\\Delete.aspx.cs",
+              "RelativeDocumentMoniker": "ERM\\ERM\\Manage\\Delete.aspx.cs",
+              "ToolTip": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\ERM\\ERM\\Manage\\Delete.aspx.cs",
+              "RelativeToolTip": "ERM\\ERM\\Manage\\Delete.aspx.cs",
+              "ViewState": "AgIAAC4AAABAzMzMzMwkwFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T03:06:09.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Footer.ascx",
+              "DocumentMoniker": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\ERM\\ERM\\Controls\\Footer.ascx",
+              "RelativeDocumentMoniker": "ERM\\ERM\\Controls\\Footer.ascx",
+              "ToolTip": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\ERM\\ERM\\Controls\\Footer.ascx",
+              "RelativeToolTip": "ERM\\ERM\\Controls\\Footer.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2026-05-16T23:08:30.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Header.ascx",
+              "DocumentMoniker": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\ERM\\ERM\\Controls\\Header.ascx",
+              "RelativeDocumentMoniker": "ERM\\ERM\\Controls\\Header.ascx",
+              "ToolTip": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\ERM\\ERM\\Controls\\Header.ascx",
+              "RelativeToolTip": "ERM\\ERM\\Controls\\Header.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2026-05-16T23:07:36.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Registration.aspx.designer.cs",
+              "DocumentMoniker": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\ERM\\ERM\\Registration.aspx.designer.cs",
+              "RelativeDocumentMoniker": "ERM\\ERM\\Registration.aspx.designer.cs",
+              "ToolTip": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\ERM\\ERM\\Registration.aspx.designer.cs",
+              "RelativeToolTip": "ERM\\ERM\\Registration.aspx.designer.cs",
+              "ViewState": "AgIAAGoAAAAAwMzMzMwFwOAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T01:02:38.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Styles.css",
+              "DocumentMoniker": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\ERM\\ERM\\Scripts\\Styles.css",
+              "RelativeDocumentMoniker": "ERM\\ERM\\Scripts\\Styles.css",
+              "ToolTip": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\ERM\\ERM\\Scripts\\Styles.css",
+              "RelativeToolTip": "ERM\\ERM\\Scripts\\Styles.css",
+              "ViewState": "AgIAAAMAAADgmZmZmVkqwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-16T22:28:20.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Site.Master",
+              "DocumentMoniker": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\ERM\\ERM\\Site.Master",
+              "RelativeDocumentMoniker": "ERM\\ERM\\Site.Master",
+              "ToolTip": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\ERM\\ERM\\Site.Master",
+              "RelativeToolTip": "ERM\\ERM\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-16T21:52:17.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ThankYou.aspx",
+              "DocumentMoniker": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\ERM\\ERM\\ThankYou.aspx",
+              "RelativeDocumentMoniker": "ERM\\ERM\\ThankYou.aspx",
+              "ToolTip": "\\\\elm-xa-file\\CitrixFiles$\\elmhurst\\e0710483\\Documents\\C#Code\\C#Projects\\ERM\\ERM\\ERM\\ThankYou.aspx",
+              "RelativeToolTip": "ERM\\ERM\\ThankYou.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-16T23:18:20.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

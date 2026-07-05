@@ -1,0 +1,8 @@
+\\elm-xa-file\CitrixFiles$\elmhurst\e0710483\Documents\C WebDev\HeatIndex\HeatIndexApi\obj\Release\net8.0\PubTmp\Out\HeatIndexApi.exe
+\\elm-xa-file\CitrixFiles$\elmhurst\e0710483\Documents\C WebDev\HeatIndex\HeatIndexApi\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+\\elm-xa-file\CitrixFiles$\elmhurst\e0710483\Documents\C WebDev\HeatIndex\HeatIndexApi\obj\Release\net8.0\PubTmp\Out\appsettings.json
+\\elm-xa-file\CitrixFiles$\elmhurst\e0710483\Documents\C WebDev\HeatIndex\HeatIndexApi\obj\Release\net8.0\PubTmp\Out\dotnet-tools.json
+\\elm-xa-file\CitrixFiles$\elmhurst\e0710483\Documents\C WebDev\HeatIndex\HeatIndexApi\obj\Release\net8.0\PubTmp\Out\HeatIndexApi.dll
+\\elm-xa-file\CitrixFiles$\elmhurst\e0710483\Documents\C WebDev\HeatIndex\HeatIndexApi\obj\Release\net8.0\PubTmp\Out\HeatIndexApi.deps.json
+\\elm-xa-file\CitrixFiles$\elmhurst\e0710483\Documents\C WebDev\HeatIndex\HeatIndexApi\obj\Release\net8.0\PubTmp\Out\HeatIndexApi.runtimeconfig.json
+\\elm-xa-file\CitrixFiles$\elmhurst\e0710483\Documents\C WebDev\HeatIndex\HeatIndexApi\obj\Release\net8.0\PubTmp\Out\HeatIndexApi.pdb

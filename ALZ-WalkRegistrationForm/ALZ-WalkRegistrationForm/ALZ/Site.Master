@@ -1,0 +1,34 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="ALZ_WalkRegistrationForm.ALZ.Site" %>
+
+<%@ Register Src="~/ALZ/Controls/Header.ascx" TagPrefix="uc1" TagName="Header" %>
+<%@ Register Src="~/ALZ/Controls/Footer.ascx" TagPrefix="uc1" TagName="Footer" %>
+
+
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <title>Walk to End Alzheimer's</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
+    <link href="/ALZ/Scripts/Styles.css" rel="stylesheet" />
+</head>
+<body>
+    <uc1:Header runat="server" id="Header" />
+
+    <form id="form1" runat="server">
+        <div class="container-fluid">
+        <div class="row">
+            <div class="col-1"></div>
+            <div class="col-10">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+            <div class="col-1"></div>
+          </div>   
+         </div>
+    </form>
+
+    <uc1:Footer runat="server" id="Footer" />
+
+</body>
+</html>

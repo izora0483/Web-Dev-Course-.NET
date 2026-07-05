@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAXJ413F5NLU2crRYqGgsFygAAAAACAAAAAAADZgAAwAAAABAAAAC1dJ34NTkFnzgjA8W9sWnSAAAAAASAAACgAAAAEAAAAH4tEplMQYF/7a4JmbhJLQsgAAAA/+M6i4mP1BeiUYoGEbraW3jz/Yuk+R/yejGtDX5kwH8UAAAAeipyjTCwmgYttOZHhvKSKCtiglM=</EncryptedPassword>
+    <_PublishTargetUrl>ftp://ftp.elmcsis.com/api</_PublishTargetUrl>
+    <History>True|2026-05-05T16:43:45.5356613Z||;False|2026-05-05T11:42:55.7965496-05:00||;True|2026-05-05T11:40:19.8860408-05:00||;False|2026-05-05T11:38:35.6667711-05:00||;False|2026-05-05T11:37:42.3285506-05:00||;True|2026-05-05T11:14:21.1101480-05:00||;False|2026-05-05T11:13:39.1387410-05:00||;False|2026-05-05T11:13:18.7370989-05:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>05/05/2026 11:03:54</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>05/05/2026 11:03:54</publishTime>
+    </File>
+    <File Include="dotnet-tools.json">
+      <publishTime>05/05/2026 11:13:47</publishTime>
+    </File>
+    <File Include="HeatIndexApi.deps.json">
+      <publishTime>05/05/2026 11:43:37</publishTime>
+    </File>
+    <File Include="HeatIndexApi.dll">
+      <publishTime>05/05/2026 11:43:36</publishTime>
+    </File>
+    <File Include="HeatIndexApi.exe">
+      <publishTime>05/05/2026 11:43:36</publishTime>
+    </File>
+    <File Include="HeatIndexApi.pdb">
+      <publishTime>05/05/2026 11:43:36</publishTime>
+    </File>
+    <File Include="HeatIndexApi.runtimeconfig.json">
+      <publishTime>05/05/2026 11:13:09</publishTime>
+    </File>
+    <File Include="HeatIndexApi.staticwebassets.endpoints.json">
+      <publishTime>05/05/2026 11:13:14</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>05/05/2026 11:43:38</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
